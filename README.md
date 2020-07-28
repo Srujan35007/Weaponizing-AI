@@ -1,6 +1,6 @@
 # Weaponizing-AI
 Targeting system inspired from animal movement perception.<br>
-<strong>Status:</strong> Not Complete - 27th July 2020
+**Status:** Not Complete - 27th July 2020
 ## Idea 
 - Making a low computational-power perception logic for differentiating the enemy from the background. 
 - Track the past moments of the enemies and save the enemy moments for higher efficiency.
